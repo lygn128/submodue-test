@@ -1,0 +1,3 @@
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/lygn128/sub1.git
